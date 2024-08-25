@@ -1,15 +1,16 @@
-#Titulo
+#TFazendo o Setup do Git e GitHub
 
-##Sub-Título
+##principais dados de configurção Inicial
 
 *itálico*
 
-**Negrito**
+**Acesso ao Git via terminal bash - Comandos**
 
-- Elemento 1
-- Elemento 2
-- Elemento 3
-- Elemento 4
+- git add READM.md
+- git commit -m "Comentario sobre o Imput"
+- git log - Retorna os logs do Projeto
+- git restore main.py ( Restaura um arquivo que foi excluido)
+- git
 
 1) Elemento 01
 2) Elemento 02
