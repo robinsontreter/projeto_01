@@ -1,6 +1,6 @@
-#TFazendo o Setup do Git e GitHub
+#Fazendo o Setup do Git e GitHub
 
-##principais dados de configurção Inicial
+##principais dados de configuração Inicial
 
 *itálico*
 
